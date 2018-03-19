@@ -10,9 +10,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.395Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.330Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.395Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.330Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2"}</cw:cwrcAttributes>
@@ -27,16 +27,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_116"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_188"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.396Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.337Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.396Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.337Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2 P3"}</cw:cwrcAttributes>
@@ -51,16 +51,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_118"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_190"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.397Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.339Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.397Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.339Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -75,16 +75,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_120"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_192"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.398Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.340Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.398Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.340Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -99,16 +99,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_122"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_194"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.399Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.341Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.399Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.341Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -123,16 +123,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_124"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_196"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.400Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.343Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.400Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.343Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2"}</cw:cwrcAttributes>
@@ -147,16 +147,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_126"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_198"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.400Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.345Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.400Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.345Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -171,16 +171,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_128"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_200"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.402Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.348Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.402Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.348Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -195,16 +195,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_130"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_202"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.403Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.350Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.403Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.350Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"I1"}</cw:cwrcAttributes>
@@ -219,16 +219,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_132"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_204"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.404Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.352Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:29:08.404Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:30:17.352Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"I1"}</cw:cwrcAttributes>
@@ -243,10 +243,11 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_134"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_206"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
+
 
 
 
@@ -260,15 +261,15 @@
                 <p>Information about the source</p>
             </sourceDesc>
         </fileDesc>
-    <encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-03-19T21:27:26.832Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+    <encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-03-19T21:28:35.263Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
     <text>
     <body>
-    <!--  The type attribute in the &lt;div&gt; tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the &lt;div&gt; type attribute  -->
+    <!--   The type attribute in the &lt;div&gt; tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the &lt;div&gt; type attribute   -->
         <div type="chapter">
             <head>
                 <bibl>
                     <title>COVE Collective: The Small, Sheltered Bay for Digitized Victorian Literature</title> Meg Wilson</bibl></head>
-           <p xml:id="P1">The form of the book naturally predisposes us to understand knowledge as related to authoritative scholarly creators who have a certain level of ownership over the ideas expressed within their text, or rather, their ‘genius’. This concept was foreign to earlier oral culture and is on track to become even more foreign to our new digital moment. The notion of authorship itself is a product of print technology (Landow 140), and our coursework in English continues to follow the logic of this earlier technology. This is perpetuated through the teaching of the ‘canon’ of authors using codex print editions created by single authors, which have been edited by authoritative senior scholars. Following the terminology of N. Katherine Hayles, I want to touch on the notion of ‘skeuomorphism’. “A skeuomorph”, writes Hayles “is a design feature that is no longer functional in itself but that refers back to a feature that was functional at an earlier time” (17). These formal structures of the ‘old’ help us to make sense of the ‘new’ and limit the full potential of technological innovations. DH method is transforming the ways in which scholars research and edit, and, further, how they publish, while institutional shifts impact what and how scholars can publish.</p>	<p xml:id="P2">Dino Felluga, the creator and driving force of the Central Online Victorian Educator (or COVE), wrote about his motivation in a piece for 19 before the project had come to fruition; his fight was primarily focused on the protection of “untrammelled scholarly and public access to our cultural heritage” (Felluga, The Eventuality of the Digital). He planned to accomplish this by incorporating his already rich scholarly venture, Britain, Representation, and Nineteenth-Century History (aka BRANCH) website into a hub that could offer both an archive of literature from the nineteenth-century and a brand-new set of tools for reading, annotating, and working with COVE’s primary texts. The COVE set out with a huge and lofty mission: “to make freely available to the public all work that undergoes peer review, with that work put through copy-editing of equal or superior quality to that currently offered by print presses” (Ryerson’s Centre for DH). COVE’s aim was to create a sustainable space for scholarly publication in an attempt to counter rising pressures (like budget cuts and the constant pursuit of relevance) on academic and commercial presses. COVE wanted to counter this by showing off the wealth of knowledge base in an alternate form, that was to be rigorous while universally, creatively, and easily accessible. Of course, the digital humanities offer the most logical mechanisms for achieving that goal. COVE set its sights high: not only did the platform set out to be the destination place for anyone teaching and researching the Victorian period, it also proposed to serve as a model that other field groups could follow. Whether or not the COVE delivers on its original sights, however, is another story.</p><p>According to their website, COVE’s Electronic Editions “offer a searchable archive of texts of the Victorian era, enhanced by technology made possible in the online environment” (Felluga, Editions). COVE offers the ability to compare and contrast the form of the digital edition with the nuances of the many physical ones, attempting to show the text from many text-based perspectives, highlighting the editorial decisions that affect the appearance of an edition. COVE’s annotation function, built on annotatorjs, supports both the basic comprehension of a text, by providing definitions or illustrations for unfamiliar terms, and enhances our understanding of it through critical analysis and argumentation. Open-source initiatives like COVE are valuable not just because of the tools they provide that can serve to refigure the way we see text, but also because, looking at the bigger picture, they attempt to counter the massive body of humanities knowledge that was created and craftily hidden behind various paywalls. After all, most of the research papers coming out of the humanities are stored in university libraries (in books or journals) or dispersed through password-protected online routes also marketed specifically to libraries.</p><p>COVE’s utopian vision of having the commentary of many scholars on a single text does not necessarily produce an ideal environment to begin the process of teaching and learning from. While the annotation function can be of high value to scholars and advanced researchers, or perhaps even to graduate students who may be encountering the text for the first time, I find it is intellectually helpful that COVE also allows a user to toggle between showing editions as completely blank slates, sans commentary. This provides a pallet on which students can project their own analyses, without being clouded by the numerous scholarly annotations on a given text. Removing the critical layer of annotation from the text makes the website more accessible for undergraduates (or eager high-schoolers) to develop their exegetical probing skills. COVE can aid in thinking about the relationship between texts and paratexts and further, through linking the content to its criticism. It is to COVE’s credit that both these possible usage routes are a main feature of the interface, even though the focus of the initial mission statement was on disrupting the notion of for-profit academic publication that oftentimes keeps research, and any commentary surrounding or replying to it, behind closed doors. While it is not difficult to identify and Wilson 4 acknowledge the many strengths of COVE, we still must remain critical of the skeuomorphism present in the editorial features of the tool. Only those who have editor status can add annotations, and further, the pieces become static when the peer-editing process ends. Authorship and annotatorship, then, are still inherently safeguarded on COVE, which brings forward questions of who should granted the privilege (or the responsibility) for creating context and meaning. In many, if not all cases, annotated works on COVE have been annotated by only a variety of Victorian scholars. It makes sense for scholars to be involved as they are technically the ‘most’ knowledgeable on these topics, but to exclude annotations from ‘outsider’ scholars, and further, all other readers, is a close-minded view of the aforementioned “utopia”. COVE shows us that there is still a wall between academic opinion and public discourse. Since I was unable to use the platform to write or annotate, I found COVE’s interface to be far too small in its reach of authors/annotators, making it unable to resist the skeuomorphic drag of the old and familiar when standing at the threshold of a digital tool that has the capability to make the most of new technologies.</p><p>When creating (what is touted to be) “fully-accessible” nineteenth-century peer-reviewed scholarship, should the process really be as basic as a physical shift—moving scholarly discourse onto the online world—or should it instead push for and demand more? We need more digitization projects that are less concerned with hypothetical public access (the mindset of: “we put it on the internet, now everyone is able to use it”), but are designed, instead, for true, meaningful integration into the online world, which means supporting, valuing, and growing from participation by multiple publics. Our definition of access, in my opinion, has to expand—outside of the realm of scholars—and into the publics of demographics that have traditionally (whether intentionally or unintentionally) been located outside of the academic conversation.</p><p/>
+           <p xml:id="P1">The form of the book naturally predisposes us to understand knowledge as related to authoritative scholarly creators who have a certain level of ownership over the ideas expressed within their text, or rather, their ‘genius’. This concept was foreign to earlier oral culture and is on track to become even more foreign to our new digital moment. The notion of authorship itself is a product of print technology (Landow 140), and our coursework in English continues to follow the logic of this earlier technology. This is perpetuated through the teaching of the ‘canon’ of authors using codex print editions created by single authors, which have been edited by authoritative senior scholars. Following the terminology of N. Katherine Hayles, I want to touch on the notion of ‘skeuomorphism’. “A skeuomorph”, writes Hayles “is a design feature that is no longer functional in itself but that refers back to a feature that was functional at an earlier time” (17). These formal structures of the ‘old’ help us to make sense of the ‘new’ and limit the full potential of technological innovations. DH method is transforming the ways in which scholars research and edit, and, further, how they publish, while institutional shifts impact what and how scholars can publish.</p>	<p xml:id="P2">Dino Felluga, the creator and driving force of the Central Online Victorian Educator (or COVE), wrote about his motivation in a piece for 19 before the project had come to fruition; his fight was primarily focused on the protection of “untrammelled scholarly and public access to our cultural heritage” (Felluga, The Eventuality of the Digital). He planned to accomplish this by incorporating his already rich scholarly venture, Britain, Representation, and Nineteenth-Century History (aka BRANCH) website into a hub that could offer both an archive of literature from the nineteenth-century and a brand-new set of tools for reading, annotating, and working with COVE’s primary texts. The COVE set out with a huge and lofty mission: “to make freely available to the public all work that undergoes peer review, with that work put through copy-editing of equal or superior quality to that currently offered by print presses” (Ryerson’s Centre for DH). COVE’s aim was to create a sustainable space for scholarly publication in an attempt to counter rising pressures (like budget cuts and the constant pursuit of relevance) on academic and commercial presses. COVE wanted to counter this by showing off the wealth of knowledge base in an alternate form, that was to be rigorous while universally, creatively, and easily accessible. Of course, the digital humanities offer the most logical mechanisms for achieving that goal. COVE set its sights high: not only did the platform set out to be the destination place for anyone teaching and researching the Victorian period, it also proposed to serve as a model that other field groups could follow. Whether or not the COVE delivers on its original sights, however, is another story.</p><p>According to their website, COVE’s Electronic Editions “offer a searchable archive of texts of the Victorian era, enhanced by technology made possible in the online environment” (Felluga, Editions). COVE offers the ability to compare and contrast the form of the digital edition with the nuances of the many physical ones, attempting to show the text from many text-based perspectives, highlighting the editorial decisions that affect the appearance of an edition. COVE’s annotation function, built on annotatorjs, supports both the basic comprehension of a text, by providing definitions or illustrations for unfamiliar terms, and enhances our understanding of it through critical analysis and argumentation. Open-source initiatives like COVE are valuable not just because of the tools they provide that can serve to refigure the way we see text, but also because, looking at the bigger picture, they attempt to counter the massive body of humanities knowledge that was created and craftily hidden behind various paywalls. After all, most of the research papers coming out of the humanities are stored in university libraries (in books or journals) or dispersed through password-protected online routes also marketed specifically to libraries.</p><p>COVE’s utopian vision of having the commentary of many scholars on a single text does not necessarily produce an ideal environment to begin the process of teaching and learning from. While the annotation function can be of high value to scholars and advanced researchers, or perhaps even to graduate students who may be encountering the text for the first time, I find it is intellectually helpful that COVE also allows a user to toggle between showing editions as completely blank slates, sans commentary. This provides a pallet on which students can project their own analyses, without being clouded by the numerous scholarly annotations on a given text. Removing the critical layer of annotation from the text makes the website more accessible for undergraduates (or eager high-schoolers) to develop their exegetical probing skills. COVE can aid in thinking about the relationship between texts and paratexts and further, through linking the content to its criticism. It is to COVE’s credit that both these possible usage routes are a main feature of the interface, even though the focus of the initial mission statement was on disrupting the notion of for-profit academic publication that oftentimes keeps research, and any commentary surrounding or replying to it, behind closed doors. While it is not difficult to identify and acknowledge the many strengths of COVE, we still must remain critical of the skeuomorphism present in the editorial features of the tool. Only those who have editor status can add annotations, and further, the pieces become static when the peer-editing process ends. Authorship and annotatorship, then, are still inherently safeguarded on COVE, which brings forward questions of who should granted the privilege (or the responsibility) for creating context and meaning. In many, if not all cases, annotated works on COVE have been annotated by only a variety of Victorian scholars. It makes sense for scholars to be involved as they are technically the ‘most’ knowledgeable on these topics, but to exclude annotations from ‘outsider’ scholars, and further, all other readers, is a close-minded view of the aforementioned “utopia”. COVE shows us that there is still a wall between academic opinion and public discourse. Since I was unable to use the platform to write or annotate, I found COVE’s interface to be far too small in its reach of authors/annotators, making it unable to resist the skeuomorphic drag of the old and familiar when standing at the threshold of a digital tool that has the capability to make the most of new technologies.</p><p>When creating (what is touted to be) “fully-accessible” nineteenth-century peer-reviewed scholarship, should the process really be as basic as a physical shift—moving scholarly discourse onto the online world—or should it instead push for and demand more? We need more digitization projects that are less concerned with hypothetical public access (the mindset of: “we put it on the internet, now everyone is able to use it”), but are designed, instead, for true, meaningful integration into the online world, which means supporting, valuing, and growing from participation by multiple publics. Our definition of access, in my opinion, has to expand—outside of the realm of scholars—and into the publics of demographics that have traditionally (whether intentionally or unintentionally) been located outside of the academic conversation.</p><p/>
         </div>		<div type="chapter">
             <head>
                 <bibl>
@@ -277,18 +278,18 @@
             </head>
            <p xml:id="P3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>	<p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
-        <!--  To add an index  -->
+        <!--   To add an index   -->
         <div type="index">
                 <list>
-                        <item xml:id="I1"><ref annotationId="ent_116" target="P2">term</ref></item>
-                        <item xml:id="I2"><ref annotationId="ent_118" target="P2 P3">term</ref></item>
-                        <item xml:id="I3"><ref annotationId="ent_120" target="P4">term</ref></item>  
+                        <item xml:id="I1"><ref annotationId="ent_188" target="P2">term</ref></item>
+                        <item xml:id="I2"><ref annotationId="ent_190" target="P2 P3">term</ref></item>
+                        <item xml:id="I3"><ref annotationId="ent_192" target="P4">term</ref></item>  
                         
-                        <!--  To create a subsection of terms  -->
-                        <item xml:id="I4"><ref annotationId="ent_122" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_124" target="P1">subterm</ref></item>		<item><ref annotationId="ent_126" target="P2">subterm</ref></item>		<item><ref annotationId="ent_128" target="P4">subterm</ref></item>	</list>
+                        <!--   To create a subsection of terms   -->
+                        <item xml:id="I4"><ref annotationId="ent_194" target="P1">term</ref> 	<list>		<item><ref annotationId="ent_196" target="P1">subterm</ref></item>		<item><ref annotationId="ent_198" target="P2">subterm</ref></item>		<item><ref annotationId="ent_200" target="P4">subterm</ref></item>	</list>
                         </item>  
                         
-                        <!--  To create index cross references  --> 	 	<item xml:id="I5">	 <ref annotationId="ent_130" target="P4">term</ref> 	<list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_132" target="I1">associated term</ref></item>	<item><ref annotationId="ent_134" target="I1">associated term</ref></item>	</list>	</item>	</list>
+                        <!--   To create index cross references   --> 	 	<item xml:id="I5">	 <ref annotationId="ent_202" target="P4">term</ref> 	<list>	<head>	 <hi rend="italic">See also</hi> 	</head>	<item><ref annotationId="ent_204" target="I1">associated term</ref></item>	<item><ref annotationId="ent_206" target="I1">associated term</ref></item>	</list>	</item>	</list>
            </div>
          </body>
     </text>
